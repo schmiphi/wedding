@@ -15,8 +15,8 @@ a {
     color: #fec503; }
 p.info-text {
   color: #434743;
-  margin-left: 15px;
-  margin-right: 25px;
+  padding-left: 15px;
+  padding-right: 25px;
 }
 
 h1,
