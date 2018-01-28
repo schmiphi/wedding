@@ -10,9 +10,9 @@ body {
 p {
   line-height: 1.75; }
 a {
-  color: #324B6A; }
+  color: #324B95; }
   a.active, a:active, a:focus, a:hover {
-    color: #fec503; }
+    color: #ffa07a; }
 p.info-text {
   color: #434743;
 }
@@ -78,7 +78,7 @@ body {
     color: #ffffff;
     font-family: 'Playball', cursive; }
     #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-      color: #fec503; }
+      color: #ffa07a; }
   #mainNav .navbar-nav .nav-item .nav-link {
     font-size: 90%;
     font-weight: 400;
@@ -533,16 +533,16 @@ ul.social-buttons {
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: #b48b01;
-    background-color: #fec503; }
+    background-color: #ffa07a; }
   .btn-primary:hover {
     color: white;
     border-color: #f6bf01;
-    background-color: #fec503; }
+    background-color: #ffa07a; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
     border-color: #f6bf01;
-    background-color: #fec503; }
+    background-color: #ffa07a; }
     .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
     .open > .btn-primary.dropdown-toggle.focus,
     .open > .btn-primary.dropdown-toggle:focus,
@@ -576,16 +576,16 @@ ul.social-buttons {
   .btn-xl.focus, .btn-xl:focus {
     color: white;
     border-color: #b48b01;
-    background-color: #fec503; }
+    background-color: #ffa07a; }
   .btn-xl:hover {
     color: white;
     border-color: #f6bf01;
-    background-color: #fec503; }
+    background-color: #ffa07a; }
   .btn-xl.active, .btn-xl:active,
   .open > .btn-xl.dropdown-toggle {
     color: white;
     border-color: #f6bf01;
-    background-color: #fec503; }
+    background-color: #ffa07a; }
     .btn-xl.active.focus, .btn-xl.active:focus, .btn-xl.active:hover, .btn-xl:active.focus, .btn-xl:active:focus, .btn-xl:active:hover,
     .open > .btn-xl.dropdown-toggle.focus,
     .open > .btn-xl.dropdown-toggle:focus,
